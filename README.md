@@ -35,5 +35,5 @@ This extension is for DFRobot "NFC Module for Arduino". It has a UART interface 
 (The metadata above is needed for package search.)
 
 ```package
-NFC=github:lioujj/pxt-NFC
+NFC=github:food22/test5
 ```
